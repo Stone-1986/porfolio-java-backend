@@ -14,5 +14,7 @@ Se abordar el desarrollo de un API REST basado en Java, abarcando todas las etap
 - Crear Mappers y el uso de DTOs
 - Persistencia con Spring (JPA, Spring data,QUERYs, Query JPQL, NativeQuery, Criteria AP)
 - Comunicar microservicios con RestTemplate y Feign
+- Estrategias de tolerancias a fallos Circuit Breaker
 - Implementar las funcionalidades de autenticación y autorización con Spring Security
+- Pruebas unitarias con JUnit 5 y Mockito
   
