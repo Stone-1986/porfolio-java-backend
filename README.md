@@ -18,6 +18,5 @@ Se abordar el desarrollo de un API REST basado en Java, abarcando todas las etap
 - Implementar las funcionalidades de autenticación y autorización con Spring Security
 - Pruebas unitarias con JUnit 5 y Mockito
   
-##Material de estudio
--Manejo de excepciones checked y unchecked
-https://www.baeldung.com/java-checked-unchecked-exceptions
+> **Material de estudio**
+- [Manejo de excepciones checked y unchecked](https://www.baeldung.com/java-checked-unchecked-exceptions)
