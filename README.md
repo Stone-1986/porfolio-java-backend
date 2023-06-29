@@ -19,4 +19,14 @@ Se abordar el desarrollo de un API REST basado en Java, abarcando todas las etap
 - Pruebas unitarias con JUnit 5 y Mockito
   
 > **Material de estudio**
+> > **Java en general**
 - [Manejo de excepciones checked y unchecked](https://www.baeldung.com/java-checked-unchecked-exceptions)
+- [Crear excepciones personalizadas](https://www.baeldung.com/java-new-custom-exception)
+
+> > **Buenas Practicas**
+- [Buenas practicas de REST](https://www.youtube.com/watch?v=p-qaNONn278)
+- [Recomendaciones como programador](https://97cosas.com/programador/)
+- [Diseño de software](https://leanpub.com/pppsd/read)
+
+> > **Arquitecturas limpias**
+- 
