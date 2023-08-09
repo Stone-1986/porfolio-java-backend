@@ -10,8 +10,10 @@ El comando git init crea un nuevo repositorio de Git. Puede utilizarse para conv
 
 ### _ejemplo_
 Primero se debera establecer el directorio de la carpeta raíz del proyecto con el comando cd y luego ejecutar git init.
+```
   cd /path/to/your/existing/code 
   git init
+```
 
 ## _Clonación de un repositorio existente: git clone_
   
