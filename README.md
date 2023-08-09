@@ -23,7 +23,6 @@ El sigueinete comando se usa para crear una copia o clonar un repositorio remoto
 git clone <repo url>
 cd my-project 
 # Start working on the project
-
 ```
 ## _git config_
 El comando git config es una función útil que sirve para definir valores de configuración de Git a nivel de un proyecto global o local. Estos niveles de configuración se corresponden con archivos de texto .gitconfig. Al ejecutar git config, se modificará un archivo de texto de configuración.
