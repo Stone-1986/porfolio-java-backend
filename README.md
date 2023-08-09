@@ -25,4 +25,15 @@ cd my-project
 # Start working on the project
 
 ```
-  
+## _git config_
+El comando git config es una función útil que sirve para definir valores de configuración de Git a nivel de un proyecto global o local. Estos niveles de configuración se corresponden con archivos de texto .gitconfig. Al ejecutar git config, se modificará un archivo de texto de configuración.
+
+### _Niveles y archivos de git config_
+
+El comando git config puede aceptar argumentos para especificar en qué nivel de configuración debe operar. Dispones de los siguientes niveles de configuración.
+
+--local  : La configuración de nivel local se aplica al repositorio de contexto en el que se invoca git config. Los valores de configuración locales se almacenan en un archivo que se puede encontrar en el directorio .git del repositorio: .git/config.
+
+--global : La configuración de nivel global es específica del usuario, lo que significa que se aplica al usuario de un sistema operativo. Los valores de configuración globales se almacenan en un archivo que se encuentra en el directorio principal de un usuario. ~ /.gitconfig en sistemas unix y C:\\.gitconfig en Windows.
+
+--system : La configuración de nivel de sistema se aplica a toda una máquina. Afecta a todos los usuarios de un sistema operativo y a todos los repositorios.
