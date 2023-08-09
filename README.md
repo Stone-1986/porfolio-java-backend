@@ -14,6 +14,15 @@ Primero se debera establecer el directorio de la carpeta raíz del proyecto con 
   cd /path/to/your/existing/code 
   git init
 ```
-
 ## _Clonación de un repositorio existente: git clone_
+git clone se utiliza principalmente para apuntar a un repositorio existente y clonar o copiar dicho repositorio en un nuevo directorio, en otra ubicación.De manera interna, git clone llama primero a git init para generar un nuevo repositorio. Luego, copia los datos del repositorio existente y extrae un nuevo conjunto de archivos de trabajo.
+
+### _ejemplo_
+El sigueinete comando se usa para crear una copia o clonar un repositorio remoto. Se utiliza git clone con la URL de un repositorio.
+```
+git clone <repo url>
+cd my-project 
+# Start working on the project
+
+```
   
